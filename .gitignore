@@ -3,3 +3,9 @@ node_modules/
 
 **/.vitepress/dist
 **/.vitepress/cache
+
+db.json
+# package-lock.json
+
+public/
+.deploy_git/
